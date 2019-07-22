@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource_AdvWorks">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=VISHAL-PC;Initial Catalog=AdventureWorks2014</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>5270cbc4-458e-4a0e-9775-5940d963db23</DataSourceID>
+</RptDataSource>

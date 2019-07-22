@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1_Shared">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=VISHAL-PC;Initial Catalog=Test</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>afa9a2c0-9244-471b-b189-7cc1375dfb51</DataSourceID>
+</RptDataSource>
